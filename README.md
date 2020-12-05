@@ -1,6 +1,6 @@
 # Software_Projects
 
-# [Project 1: FinalLists](https://github.com/sammycool04/IST-303-Group5)
+# [Project 1: FinalLists](https://github.com/sammycool04/IST-303-Group5)(Python Django, Azure, JavaScript, JQuery)
 
 FinalLists is a web application that enables users to identify their ideal housing option. Users can generate their personalized housing lists based on their inputed parameters such as
 * crime rate risk levels and proximity to area amenities (schools, grocery stores)
