@@ -29,3 +29,10 @@ specifications.
 
 ![](/images/Cover.jpeg)
 
+
+# [Project 4: Node.js Task App]((https://github.com/sammycool04/NodeJS-TaskApp)
+A Node.js practice project, skills includes
+* MongoDB Implementation
+* REST APIs and Mongoose Implementation
+* Data Sorting, Pagination and Filtering
+
